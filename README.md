@@ -1,4 +1,3 @@
-# Getting-and-Cleaning-Data
 ---
 title: "README"
 author: "Malatesh"
